@@ -16,12 +16,11 @@
 <br>
 <a href="https://www.dropbox.com/scl/fi/cguqt5sppbx231t4cm961/Ajust-Image-Converter.zip?rlkey=r7d0n6e5fljcepq7mb2njmgan&st=oqsddfgy&dl=1">
   <img
-    src="https://raw.githubusercontent.com/Sadc2h4/brand-assets/main/button/Download_Button_3.png"
+    src="https://raw.githubusercontent.com/Sadc2h4/brand-assets/main/button/Download_Button_4.png"
     alt="Download .zip"
     height="48"
   />
 </a>
-dropbox
 <br>
 
 ## Features
