@@ -6,14 +6,22 @@
 <img width="600" height="410" alt="github_0" src="https://github.com/user-attachments/assets/f4f263bb-ded5-4b4f-913c-2fae527b0dff" />
 
 ## Download
-<a href="https://github.com/Sadc2h4/Meta-Data-Search/releases/tag/V1.1a">
+<a href="https://github.com/Sadc2h4/Ajust-Image-Converter/releases/tag/V1.0a">
   <img
     src="https://raw.githubusercontent.com/Sadc2h4/brand-assets/main/button/Download_Button_1.png"
     alt="Download .zip"
     height="48"
   />
 </a>
-
+<br>
+<a href="https://www.dropbox.com/scl/fi/cguqt5sppbx231t4cm961/Ajust-Image-Converter.zip?rlkey=r7d0n6e5fljcepq7mb2njmgan&st=oqsddfgy&dl=1">
+  <img
+    src="https://raw.githubusercontent.com/Sadc2h4/brand-assets/main/button/Download_Button_3.png"
+    alt="Download .zip"
+    height="48"
+  />
+</a>
+dropbox
 <br>
 
 ## Features
